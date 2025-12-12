@@ -105,13 +105,13 @@ Continuously monitors the system for anomalies, unexpected behaviors, and deviat
 ```
 simulation/
 │
-├── ⚛️  cosmOS/          # The universe itself [ROOT]
+├── ⚛️ cosmOS/          # The universe itself [ROOT]
 ├── 📜 logOS/           # Distributed logging & event sourcing
 ├── 📚 etymOS/          # Metadata & semantic layer
 ├── 🌍 atmOS/           # Physical world node (Earth instance)
 ├── ⏰ chronOS/         # Global time sync daemon
 ├── 🔗 karmOS/          # State reconciliation & causality tracker
-├── 🌪️  chaOS/           # Entropy injector
+├── 🌪️ chaOS/           # Entropy injector
 ├── 👑 theOS/           # Ultimate orchestrator
 ├── ⚡ pneumOS/         # Energy & information transfer network
 ├── ⚡ aetherOS/        # Alternative energy network implementation
@@ -119,7 +119,7 @@ simulation/
 ├── 💭 oneirOS/         # Consciousness update system
 ├── 💀 thanatOS/        # Graceful shutdown handler
 ├── 📖 mythOS/          # Narrative consensus protocol
-├── ⚖️  nomOS/           # Governance & rule engine
+├── ⚖️ nomOS/           # Governance & rule engine
 ├── 👹 daemOS/          # Master controller for background processes
 ├── 🔥 pandemoniOS/     # Failover cluster for failed nodes
 ├── 🎵 harmoniOS/       # Synchronized stable release
