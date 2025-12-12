@@ -113,8 +113,8 @@ simulation/
 ├── 🔗 karmOS/          # State reconciliation & causality tracker
 ├── 🌪️ chaOS/           # Entropy injector
 ├── 👑 theOS/           # Ultimate orchestrator
-├── ⚡ pneumOS/         # Energy & information transfer network
-├── ⚡ aetherOS/        # Alternative energy network implementation
+├── 💨 pneumOS/         # Energy & information transfer network
+├── 🔮 aetherOS/        # Alternative energy network implementation
 ├── 😴 hypnOS/          # Offline processing & background rendering
 ├── 💭 oneirOS/         # Consciousness update system
 ├── 💀 thanatOS/        # Graceful shutdown handler
