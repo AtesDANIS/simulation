@@ -1,11 +1,3 @@
-
- ____ ___ __  __ _   _ _        _  _____ ___ ___  _   _ 
-/ ___|_ _|  \/  | | | | |      / \|_   _|_ _/ _ \| \ | |
-\___ \| || |\/| | | | | |     / _ \ | |  | | | | |  \| |
- ___) | || |  | | |_| | |___ / ___ \| |  | | |_| | |\  |
-|____/___|_|  |_|\___/|_____/_/   \_\_| |___\___/|_| \_|
-                                                   
-
 # Simulation - Distributed Architecture Layers
 
 A conceptual framework exposing the distributed architecture layers of a real-world simulation system. This project represents a philosophical and technical exploration of how complex distributed systems might be organized, drawing inspiration from Greek mythology and operating system concepts.
